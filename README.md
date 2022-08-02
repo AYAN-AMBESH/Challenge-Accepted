@@ -1,4 +1,4 @@
-# Challenge Find Code from Karthik bhaiya
+# Challenge Find Code from Karthik Uj
 
 ![Challenge](./Screenshot%202022-08-02%20112239.png)
 
