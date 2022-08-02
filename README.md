@@ -1,13 +1,13 @@
 # Challenge Find Code from Karthik Uj
 
-![Challenge](./Screenshot%202022-08-02%20112239.png)
+![Challenge](Screenshot%202022-08-02%20112239.png)
 
 ## Scenario 1 Social Media:
 The first thing to do will be searching full name of the person you are finding about in my case 
 <br> Karthik bhaiya: "Karthik Uj"
 <br>you can search normally but i would suggest using google dorking as it filters your query to the extent you want to
 
-![dorking](./google%20dork%201.png)
+![dorking](google%20dork%201.png)
 
 Now i go deeper in the rabbit hole and research more about bhaiya and found out his school (altho it didnt have anything to do with the challeneg i founded out later)
 
@@ -30,14 +30,14 @@ So i checked if there is any archive of the portfolio website because in the cha
 
 ITs time to go [way back in time](https://web.archive.org/)
 
-![way backin time](./waybackintime.png)
+![way backin time](waybackintime.png)
 
 sadly nothing found but i didnt loose hope
 
 what if i try to find archive of the github repo of the portfolio
 maybe there could be a clue there since i cant find anything else
 
-![lead](./lead.png)
+![lead](lead.png)
 
 aha i found an archive  in 2020 which is 2 years ago
 
@@ -48,4 +48,4 @@ woho we found the commit on aug 30
 when we go to that commit 
 we found the code inside index.html
 
-![answer](./ans.png)
+![answer](ans.png)
